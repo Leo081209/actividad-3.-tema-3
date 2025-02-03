@@ -1,0 +1,41 @@
+body{
+/*background-color: aqua;*/
+background-image:url(imagenes/fondo.jpg) ;
+background-size:cover;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+     background-color: navajowhite;
+     text-align: center;
+     
+     padding:10 px;
+
+    }
+
+  h2{
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  ul{
+    list-style:none ;
+    text-align: center;
+  }
+  li{
+    /*Borde naranja*/
+    border: solid orangered;
+    /*color de fondo blanco*/
+    background-color: white;
+    padding: 10px; ;
+    display: inline-block;
+    margin: 5px;
+
+  }
+
+  a{
+    color: orangered;
+    font-weight: bold;
+  }
